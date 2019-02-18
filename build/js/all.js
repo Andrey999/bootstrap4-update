@@ -1,0 +1,1 @@
+var e=document.getElementById("mobile_menu"),t=document.getElementById("mobile_menu-list");e.addEventListener("click",function(){e.classList.toggle("menu-on"),t.classList.toggle("active")});
